@@ -16,7 +16,12 @@ export default defineNuxtConfig({
     },
 
     preview: {
-      api: 'https://api.nuxt.studio'
+      api: 'https://api.nuxt.studio',
+      gitInfo: {
+        name:"agdata-web",
+        owner:"kozderka",
+        url:"https://github.com/kozderka/agdata-web"
+      }
     }
     // Nastavení pro generování obsahu pro blog
     // Můžete definovat výchozí řazení, atd.
