@@ -35,7 +35,7 @@
         />
       </div>
       <div class="text-center mt-16">
-        <NuxtLink to="/o-modulech" class="bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-8 rounded-lg text-lg transition-colors duration-300 transform hover:scale-105">Zjistit více o modulech</NuxtLink>
+        <NuxtLink to="/#o-modulech" class="bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-8 rounded-lg text-lg transition-colors duration-300 transform hover:scale-105">Zjistit více o modulech</NuxtLink>
       </div>
     </div>
   </section>

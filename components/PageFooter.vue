@@ -10,7 +10,7 @@
           <h3 class="text-lg font-semibold text-white mb-4">Rychlé odkazy</h3>
           <ul class="space-y-2 text-sm">
             <li><NuxtLink to="/#features" class="hover:text-green-400 transition-colors">Funkce</NuxtLink></li>
-            <li><NuxtLink to="/cenik" class="hover:text-green-400 transition-colors">Ceník</NuxtLink></li> 
+            <li><NuxtLink to="/#cenik" class="hover:text-green-400 transition-colors">Ceník</NuxtLink></li> 
             <li><NuxtLink to="/#references" class="hover:text-green-400 transition-colors">Reference</NuxtLink></li>
             <li><NuxtLink to="/blog" class="hover:text-green-400 transition-colors">Blog</NuxtLink></li> 
             <li><NuxtLink to="/#contact" class="hover:text-green-400 transition-colors">Kontakt</NuxtLink></li>
@@ -36,8 +36,8 @@
       <div class="border-t border-gray-700 pt-8 text-center text-sm">
         <p>&copy; <span id="currentYearFooter">{{ currentYearFooter }}</span> Agdata s.r.o. Všechna práva vyhrazena.</p>
         <p class="mt-2">
-          <NuxtLink to="/obchodni-podminky" class="hover:text-green-400 transition-colors">Obchodní podmínky</NuxtLink> |
-          <NuxtLink to="/ochrana-osobnich-udaju" class="hover:text-green-400 transition-colors">Zásady ochrany osobních údajů</NuxtLink>
+          <NuxtLink to="/#obchodni-podminky" class="hover:text-green-400 transition-colors">Obchodní podmínky</NuxtLink> |
+          <NuxtLink to="/#ochrana-osobnich-udaju" class="hover:text-green-400 transition-colors">Zásady ochrany osobních údajů</NuxtLink>
         </p>
       </div>
     </div>
