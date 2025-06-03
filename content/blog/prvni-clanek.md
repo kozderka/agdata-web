@@ -1,9 +1,13 @@
 ---
-title: "Vítejte na našem novém blogu Agdata!"
-description: "Představujeme náš nový blog, kde budeme sdílet novinky, tipy a postřehy ze světa moderního zemědělství a naší platformy Agdata."
-date: "2025-06-03"
-image: "https://placehold.co/1200x600/22c55e/ffffff?text=Agdata+Blog+Uvod&font=inter"
-tags: ["novinky", "agdata", "úvod"]
+title: Vítejte na našem novém blogu Agdata!
+description: Představujeme náš nový blog, kde budeme sdílet novinky, tipy a
+  postřehy ze světa moderního zemědělství a naší platformy Agdata.
+date: 2025-06-03
+image: https://placehold.co/1200x600/22c55e/ffffff?text=Agdata+Blog+Uvod&font=inter
+tags:
+  - novinky
+  - agdata
+  - úvod
 _draft: false
 ---
 
@@ -25,4 +29,4 @@ Snažíme se, aby náš obsah byl **relevantní, praktický a srozumitelný** pr
 
 Těšíme se na vaše čtení a případné komentáře!
 
-_Tým Agdata_
+*Tým Agdata*
