@@ -1,0 +1,1 @@
+const t={content:"v3.5.0--dtpzQz1rCUsdokQQEijw_x_HbW23_8upTLekdd8zkCA"},n={content:"_content_content",info:"_content_info"},s={content:{type:"page",fields:{id:"string",stem:"string",extension:"string",meta:"json",path:"string",title:"string",description:"string",seo:"json",body:"json",navigation:"json"}},info:{type:"data",fields:{}}};export{s as a,t as c,n as t};
