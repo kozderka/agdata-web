@@ -8,7 +8,7 @@
         <NuxtLink to="/#references" class="text-gray-600 hover:text-green-600 transition-colors duration-300">Reference</NuxtLink>
         <NuxtLink to="/blog" class="text-gray-600 hover:text-green-600 transition-colors duration-300">Blog</NuxtLink> 
         <NuxtLink to="/#contact" class="text-gray-600 hover:text-green-600 transition-colors duration-300">Kontakt</NuxtLink>
-        <NuxtLink to="/vyzadat-demo" class="bg-green-500 hover:bg-green-600 text-white font-semibold py-2 px-5 rounded-lg transition-colors duration-300">Vyžádat demo</NuxtLink>
+        <NuxtLink to="/#vyzadat-demo" class="bg-green-500 hover:bg-green-600 text-white font-semibold py-2 px-5 rounded-lg transition-colors duration-300">Vyžádat demo</NuxtLink>
       </div>
       <div class="md:hidden">
         <button @click="toggleMobileMenu" class="text-gray-600 focus:outline-none">
@@ -22,7 +22,7 @@
       <NuxtLink @click="closeMobileMenu" to="/#references" class="block px-6 py-3 text-gray-600 hover:bg-gray-50 hover:text-green-600 transition-colors duration-300">Reference</NuxtLink>
       <NuxtLink @click="closeMobileMenu" to="/blog" class="block px-6 py-3 text-gray-600 hover:bg-gray-50 hover:text-green-600 transition-colors duration-300">Blog</NuxtLink> 
       <NuxtLink @click="closeMobileMenu" to="/#contact" class="block px-6 py-3 text-gray-600 hover:bg-gray-50 hover:text-green-600 transition-colors duration-300">Kontakt</NuxtLink>
-      <NuxtLink @click="closeMobileMenu" to="/vyzadat-demo" class="block px-6 py-4 bg-green-500 hover:bg-green-600 text-white font-semibold text-center rounded-b-lg transition-colors duration-300">Vyžádat demo</NuxtLink>
+      <NuxtLink @click="closeMobileMenu" to="/#vyzadat-demo" class="block px-6 py-4 bg-green-500 hover:bg-green-600 text-white font-semibold text-center rounded-b-lg transition-colors duration-300">Vyžádat demo</NuxtLink>
     </div>
   </nav>
 </template>
