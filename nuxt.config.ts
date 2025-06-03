@@ -14,6 +14,10 @@ export default defineNuxtConfig({
     highlight: {
       theme: 'github-light' // Téma pro zvýrazňování kódu
     },
+
+    preview: {
+      api: 'https://api.nuxt.studio'
+    }
     // Nastavení pro generování obsahu pro blog
     // Můžete definovat výchozí řazení, atd.
     // documentDriven: true // Pokud chcete plně document-driven přístup
